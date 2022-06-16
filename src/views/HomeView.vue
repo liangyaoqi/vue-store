@@ -47,6 +47,7 @@
         </ul>
       </div>
     </div>
+    <div class="holder"></div>
   </div>
 </template>
 
@@ -300,5 +301,10 @@ export default {
 .more {
   color: #ccc;
   font-size: 15px;
+}
+/* 占位 */
+.holder {
+  height: 7vh;
+  width: 100vw;
 }
 </style>
