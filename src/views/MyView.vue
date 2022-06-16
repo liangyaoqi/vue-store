@@ -109,8 +109,7 @@ export default {
   padding-top: 15px;
   margin-bottom: 14px;
 }
-.box-left {
-}
+
 .box-left .img {
   border: 1px solid #fff;
   width: 15vw;
